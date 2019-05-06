@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 astazi este luni
+=======
+astazi este luni
+ieri a fost duminica
+>>>>>>> a6e254ddbc84dc7d688e28df600f08442ec4a5d4
